@@ -1,0 +1,68 @@
+== Changelog ==
+
+= 2.3.5 =
+* remove loop
+* bug fixed
+
+= 2.3.4 =
+* update codebase
+* bug fixed
+
+= 2.3.3 =
+* update codebase
+* admin notice
+
+= 2.3.2 =
+* hook priority added
+* some css update
+
+= 2.3.1 =
+* Translation file(nl_NL) added
+* Bug Fix
+* UX writing upgrade
+
+= 2.3.0 =
+* Set Max Width
+* Set Topbar Button Effects & Animation
+* Bug Fix
+* UI Updates
+* Text Before Countdown
+
+= 2.2.0 =
+* Topbar URL Targer
+* Topbar URL Relation
+* Dismiss Bug Fix
+
+= 2.1.0 =
+* Unsticky Topbar
+* Reposition the Bar (Top, Bottom)
+
+= 2.0.1 =
+* update minor problems
+
+= 2.0.0 =
+* add countdown feature
+* add admin notice
+
+= 1.1 =
+Minor but important updates
+
+= 1.0.8 =
+* Backend UX get updates
+* Pro features added
+* Cookie Updates
+
+= 1.0.7 =
+* Close button added
+* jQuery Cookie added
+
+= 1.0.6 =
+* Minor Updates
+
+= 1.0.5 =
+* Maximized characters length to 180.
+* Add Social Media Sites' URLs.
+* Integrated FontAwesome.
+
+= 1.0.0 =
+* Initial Release
