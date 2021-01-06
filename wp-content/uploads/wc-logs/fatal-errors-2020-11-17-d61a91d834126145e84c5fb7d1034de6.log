@@ -1,8 +1,0 @@
-2020-11-17T02:20:49+00:00 CRITICAL syntax error, unexpected 'add_theme_support' (T_STRING) in C:\wamp64\www\cms\nhom8\wp-content\themes\nhom8\functions.php on line 24
-
-2020-11-17T02:21:01+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\cms\nhom8\wp-content\themes\nhom8\functions.php on line 50
-
-2020-11-17T02:21:32+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\cms\nhom8\wp-content\themes\nhom8\functions.php on line 48
-
-2020-11-17T02:27:45+00:00 CRITICAL syntax error, unexpected 'image' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' in C:\wamp64\www\cms\nhom8\wp-content\themes\nhom8\header.php on line 87
-
